@@ -1,4 +1,4 @@
-#Comandos e conceitos
+# Comandos e conceitos
 Comandos e conceitos imporantes de serem lembrados para a utilização do git
 
 ## Comandos
