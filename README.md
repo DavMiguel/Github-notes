@@ -1,4 +1,4 @@
-# Desafio de GIT/Github da DIO
+# Repositório para anotações sobre programação
 Repositório feito para um desafio de projeto 
 
 ## Links uteis
