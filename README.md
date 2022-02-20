@@ -5,7 +5,7 @@ Repositório feito para anotações de conhecimentos sobre programação
 * GitHub
 * Html e css
 * Bootstrap
-* Javascrip
+* Javascript
 * Python
 
 ### Links uteis
