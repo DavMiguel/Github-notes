@@ -1,5 +1,12 @@
 # Repositório para anotações sobre programação
-Repositório feito para um desafio de projeto 
+Repositório feito para anotações de conhecimentos sobre programação
 
-## Links uteis
+##Conhecimentos
+*GitHub
+*Html e css
+*Boostrap
+*Javascrip
+*Python
+
+### Links uteis
 * [Sintaxe básica de markdown](https://www.markdownguide.org/basic-syntax/)
